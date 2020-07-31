@@ -43,5 +43,5 @@ let a3 = `guerra`
       - Array
   }
   - function
-  //para trabalhar com estes tipos usaremos o 'typeof'
+  //para trabalhar com estes tipos usaremos o 'typeof', o mesmo ajuda a identificar que tipo de variavel se esta usando
  */

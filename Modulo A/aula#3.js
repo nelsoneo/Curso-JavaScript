@@ -1,0 +1,1 @@
+//Foi baixado e instalado los proramas necessarios para usuar JS, assim como baixado a documentação

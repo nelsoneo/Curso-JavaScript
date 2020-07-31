@@ -31,7 +31,17 @@ let a3 = `guerra`
 
  //TIPOS PRIMITIVOS DE VARIAVEL\\
  /**DATA TYPES
-  - number
+  - number{
+      - infinity
+      -NaN
+  }
   - string
   - boolean
+  - null
+  - undefined
+  - object{
+      - Array
+  }
+  - function
+  //para trabalhar com estes tipos usaremos o 'typeof'
  */

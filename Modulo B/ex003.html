@@ -19,9 +19,10 @@
     <h1>Olá, Mundo!</h1><!--isso aqui é um comentario em HTML-->
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi officiis at porro accusantium, aspernatur quisquam aliquid excepturi necessitatibus quidem doloremque veniam id, placeat incidunt eveniet sed! Necessitatibus nam magni numquam!</p>
     <script>//isso é um comentario no Javascript
-     var n1 = prompt('Digite um número: ');
-     var n2 = prompt('Digite outro número: ');
-     var s = Number.parseInt(n1) + parseInt(n2);
+     var n1 = Number(prompt('Digite um número: '));
+     var n2 = Number(prompt('Digite outro número: '));
+
+     var s = n1 + n2;
      window.alert('A soma dos valores é '+ s);
     </script>
 </body>

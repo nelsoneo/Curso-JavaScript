@@ -15,3 +15,7 @@ Number.parseFloat()//converte para float
 
 String(n);
 numero.toString()
+
+//uma melhor forma de usuar também string é usando os template string
+var s = JavaScript
+`Eu estou aprendendo ${s}`;

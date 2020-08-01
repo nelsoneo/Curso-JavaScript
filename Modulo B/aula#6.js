@@ -19,3 +19,9 @@ numero.toString()
 //uma melhor forma de usuar também string é usando os template string
 var s = JavaScript
 `Eu estou aprendendo ${s}`;
+
+//mais sobre string
+
+n.length //--- quantos caracteres a string tem
+n.toUpperCase() //--- tudo para 'MAIÚSCULAS'
+n.toLowerCase() //-----tudo para 'minúsculas'
